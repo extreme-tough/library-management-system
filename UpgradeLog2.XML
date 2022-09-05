@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LibrarySystem">
+</Property><Property Name="Solution File" Value="G:\WORK\Library\LibrarySystem.sln">
+</Property><Property Name="User Options File" Value="G:\WORK\Library\LibrarySystem.suo">
+</Property><Property Name="Date" Value="Thursday, February 26, 2009">
+</Property><Property Name="Time" Value="8:34 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LibrarySystem.sln" Description="File successfully backed up as G:\WORK\Library\Backup\LibrarySystem.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LibrarySystem.suo" Description="File successfully backed up as G:\WORK\Library\Backup\LibrarySystem.suo">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="LibrarySystem.csproj" Description="Project file successfully backed up as G:\WORK\Library\Backup\LibrarySystem.csproj">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="LibrarySystem.csproj.user" Description="Project user file successfully backed up as G:\WORK\Library\Backup\LibrarySystem.csproj.user">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\AssemblyInfo.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\clsApp.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\clsApp.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\clsConnections.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\clsConnections.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\clsFunctions.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\clsFunctions.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\clsInstitutionSetup.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\clsInstitutionSetup.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\clsStart.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\clsStart.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\clsUserLogs.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\clsUserLogs.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CLASS\clsVariables.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CLASS\clsVariables.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CONTROLS\ctrlSeparator.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@CONTROLS\ctrlSeparator.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsAdjustment.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsAdjustment.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowed.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowed.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowers.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowers.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowers_Fines.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowers_Fines.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsDueBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsDueBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsInventory.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsInventory.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsLibrarians.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsLibrarians.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsReturned.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsReturned.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\Do_End.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\Do_End.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\Do_FIRST.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\Do_FIRST.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMAbout.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMAbout.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMAdjustments.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMAdjustments.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMAdjustments_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMAdjustments_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_Barrowers.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_Barrowers.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_History.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_History.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_New.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_New.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_Returned.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_Returned.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowers.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowers.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowers_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowers_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowers_View.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowers_View.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks_Monitoring.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks_Monitoring.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks_View.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks_View.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCategory.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCategory.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCategory_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCategory_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCategory_View.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCategory_View.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCourses.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCourses.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCourses_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCourses_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCourse_View.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCourse_View.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMDueBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMDueBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLevel.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLevel.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLevel_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLevel_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLevel_View.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLevel_View.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLibrarian.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLibrarian.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLibrarian_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLibrarian_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLibrarySetup.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLibrarySetup.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLogDetails.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLogDetails.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMReturnBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMReturnBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSchoolYear.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSchoolYear.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSchoolYear_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSchoolYear_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSchoolYear_View.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSchoolYear_View.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSearch.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSearch.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMShortcuts.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMShortcuts.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMViewer.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMViewer.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMZipCodes.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMZipCodes.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMZipCodes_Modify.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMZipCodes_Modify.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMZipCodes_View.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMZipCodes_View.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\LOGSCREEN.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\LOGSCREEN.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\MDI.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\MDI.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\SPLASHSCREEN.cs" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\SPLASHSCREEN.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptAdjustments1.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptAdjustments1.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBarrowedBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptBarrowedBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBarrowers.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptBarrowers.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBarrowers_Fines.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptBarrowers_Fines.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBooks_All.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptBooks_All.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptDueBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptDueBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptInventory.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptInventory.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptLibrarians.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptLibrarians.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptReturnedBooks.cs" Description="File successfully backed up as G:\WORK\Library\Backup\rptReturnedBooks.cs">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsAdjustment.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsAdjustment.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowed.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowed.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowers.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowers.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowers_Fines.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowers_Fines.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBooks.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBooks.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsDueBooks.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsDueBooks.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsInventory.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsInventory.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsLibrarians.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsLibrarians.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsReturned.xsx" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsReturned.xsx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsAdjustment.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsAdjustment.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowed.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowed.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowers.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowers.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBarrowers_Fines.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBarrowers_Fines.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsBooks.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsBooks.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsDueBooks.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsDueBooks.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsInventory.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsInventory.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsLibrarians.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsLibrarians.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@DATASETS\dsReturned.xsd" Description="File successfully backed up as G:\WORK\Library\Backup\@DATASETS\dsReturned.xsd">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@CONTROLS\ctrlSeparator.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@CONTROLS\ctrlSeparator.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\Do_End.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\Do_End.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\Do_FIRST.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\Do_FIRST.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMAbout.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMAbout.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMAdjustments.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMAdjustments.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMAdjustments_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMAdjustments_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_Barrowers.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_Barrowers.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_History.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_History.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_New.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_New.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowedBooks_Returned.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowedBooks_Returned.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowers.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowers.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowers_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowers_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBarrowers_View.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBarrowers_View.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks_Monitoring.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks_Monitoring.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMBooks_View.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMBooks_View.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCategory.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCategory.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCategory_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCategory_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCategory_View.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCategory_View.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCourses.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCourses.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCourses_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCourses_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMCourse_View.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMCourse_View.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMDueBooks.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMDueBooks.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLevel.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLevel.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLevel_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLevel_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLevel_View.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLevel_View.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLibrarian.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLibrarian.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLibrarian_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLibrarian_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLibrarySetup.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLibrarySetup.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMLogDetails.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMLogDetails.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMReturnBooks.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMReturnBooks.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSchoolYear.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSchoolYear.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSchoolYear_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSchoolYear_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSchoolYear_View.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSchoolYear_View.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMSearch.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMSearch.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMShortcuts.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMShortcuts.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMViewer.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMViewer.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMZipCodes.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMZipCodes.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMZipCodes_Modify.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMZipCodes_Modify.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\FORMZipCodes_View.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\FORMZipCodes_View.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\LOGSCREEN.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\LOGSCREEN.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\MDI.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\MDI.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="@FORMS\SPLASHSCREEN.resx" Description="File successfully backed up as G:\WORK\Library\Backup\@FORMS\SPLASHSCREEN.resx">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptAdjustments.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptAdjustments.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBarrowedBooks.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptBarrowedBooks.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBarrowers.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptBarrowers.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBarrowers_Fines.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptBarrowers_Fines.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBooks.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptBooks.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptBooks_All.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptBooks_All.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptDueBooks.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptDueBooks.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptInventory.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptInventory.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptLibrarians.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptLibrarians.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="rptReturnedBooks.rpt" Description="File successfully backed up as G:\WORK\Library\Backup\rptReturnedBooks.rpt">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="LibrarySystem.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LibrarySystem" Source="LibrarySystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LibrarySystem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LibrarySystem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="LibrarySystem.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

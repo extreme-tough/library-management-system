@@ -1,0 +1,6 @@
+1) remove all and delete crystal reports
+2) Remove all comments from the author
+3) Remove all the splash screens/about page
+4) Comment codes
+5) Rename variables so that it doesn't resemble original variable nams
+6) Rename classes  so that it doesn't resemble original classes

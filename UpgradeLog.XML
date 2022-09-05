@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LibrarySystem">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Daniel\Desktop\Ay - Library System\requirements\LibrarySystem.sln">
+</Property><Property Name="Date" Value="25 February 2009">
+</Property><Property Name="Time" Value="22:57">
+</Property></Properties><Event ErrorLevel="0" Project="LibrarySystem" Source="LibrarySystem.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LibrarySystem" Source="LibrarySystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LibrarySystem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LibrarySystem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LibrarySystem" Source="LibrarySystem.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
